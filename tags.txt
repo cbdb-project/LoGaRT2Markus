@@ -1,0 +1,14 @@
+person
+jiguan
+zi
+entry_way
+next_office
+post_time
+post_type
+prev_office
+biog_addr
+othername
+source_tag
+office
+hao
+entry_way
