@@ -1,0 +1,7 @@
+<person>薛一顯</person>詳名宦
+<person>何文暉</person><jiguan>滁州</jiguan>人
+<person>黃彬</person>詳名宦
+<person>楊憲</person>開省自憲始
+<person>汪廣洋</person>字<zi>朝宗</zi><jiguan>高𨜚</jiguan>人
+<person>陶安</person>詳名宦
+<person>滕毅</person>字<zi>仲弘</zi><jiguan>鎮江</jiguan>人以<entry_way>儒士</entry_way>徵授起居注擢<next_office>吏部尚書出參政江西</next_office>

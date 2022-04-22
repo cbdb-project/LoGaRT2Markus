@@ -24,7 +24,7 @@ def LoGaRT2Markus(args):
     input_file = args.input_file
     filename = "markus-" + os.path.splitext(os.path.basename(input_file))[0]+".html"
 
-    with open('tags.txt') as fi:
+    with open('tags.txt', encoding="utf-8") as fi:
         tags = fi.readlines()
 
     tag_def_string_list = []
@@ -41,7 +41,7 @@ def LoGaRT2Markus(args):
     content += header
 
     line_count = 0
-    with open(input_file) as fi:
+    with open(input_file, encoding="utf-8") as fi:
         lines = fi.readlines()
         for line in lines:
             new_line = ""
